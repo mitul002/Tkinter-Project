@@ -1,0 +1,10 @@
+Username is :mitul002
+Password is :wdgyf7686
+Phone no :77527572
+Agreement :True 
+
+Username is :itul002
+Password is :wry5yf7686
+Phone no :347527524
+Agreement :False 
+
