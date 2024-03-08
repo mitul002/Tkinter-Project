@@ -24,7 +24,7 @@ user=Label(f1,text="Input Username :",borderwidth=10)
 user.grid(row=1)
 
 userValue=StringVar()
-user=Entry(f1, textvariable=userValue)      #Entry() is used for making input box
+user=Entry(f1, textvariable=userValue)    #Entry() is used for making input box
 user.grid(row=1, column=1)
 
 

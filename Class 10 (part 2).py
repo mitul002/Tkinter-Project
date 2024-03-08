@@ -1,7 +1,7 @@
 from tkinter import *
 
 def login():
-    print(f"Username is :{user.get()}")  #gate() is used for take take value from entry/input box to the program
+    print(f"Username is :{user.get()}")  #get() is used for take value from entry/input box to the program
     print(f"Password is :{password.get()}")
 
 root=Tk()
